@@ -18,7 +18,7 @@ which is still a work in progress.
 - 🛠 Working on a personal project called **MidTower.io** (currently in development) https://midtower.io/.
 - 💻 Interested in front-end and back-end development, system infrastructure, and hardware.
 - 🎓 Final-year student at a technical high school specialized in Computer Science.
-- 📫 Contact: alejo@example.com
+- 📫 Contact: alejogarcia.it@gmail.com
 
 ## My Skills Include
 
