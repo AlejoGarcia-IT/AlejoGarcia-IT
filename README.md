@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/userupload/21442197/file/original-9b61b31ef28a33d07de0956b0ee8e3ea.gif" />
 
-<img src="https://i.pinimg.com/originals/b4/4e/22/b44e229598a8bdb7f2f432f246fb0813.gif" width="30px">&nbsp;***About me***
+<img src="https://cdn-icons-gif.flaticon.com/17122/17122565.gif" width="30px">&nbsp;***About me***
 
 I am in my final year of a technical high school focused on Computer Science,
 starting the academic year in 2026.
